@@ -1,8 +1,8 @@
-Basic analogue of the program veracrypt implemented in pure BASH.
-At the moment the following options are available:
-1. create container
-2. mount container
-3. unmount container
+Basic analogue of the program veracrypt implemented in pure BASH. At the moment the following options are available:
+
+  1. create container
+  2. mount container
+  3. unmount container
 
 Make sure you have the package installed on your system: cryptsetup
 Currently, container unlocking is only supported by password!
